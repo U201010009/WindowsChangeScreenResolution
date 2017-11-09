@@ -1,0 +1,2 @@
+# WindowsChangeScreenResolution
+Windows获取/改变指定分屏的分辨率
